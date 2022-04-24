@@ -1,0 +1,2 @@
+#Navigation
+Programm gets input(plane,land,water), and the amount of kilometers you'll need to pass. It automatically counts how much time it'll require and when you'll arrive. It also shows the date you've started and the approximate date you'll arrive :)
